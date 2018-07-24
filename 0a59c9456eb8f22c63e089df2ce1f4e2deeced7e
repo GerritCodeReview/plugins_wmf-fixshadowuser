@@ -1,0 +1,325 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ec84712c_582cdd03",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 5
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2018-07-24T11:46:10Z",
+      "side": 1,
+      "message": "Can you explain in more details what this is doing?",
+      "range": {
+        "startLine": 10,
+        "startChar": 21,
+        "endLine": 11,
+        "endChar": 9
+      },
+      "revId": "0a59c9456eb8f22c63e089df2ce1f4e2deeced7e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "ca76213d_83513ebe",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 5
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2018-07-24T11:46:10Z",
+      "side": 1,
+      "message": "Can you use a more descriptive name for this endpoint so that a caller can know what this endpoint is doing? Maybe something like \"assign-username-to-other-account\"?",
+      "range": {
+        "startLine": 15,
+        "startChar": 29,
+        "endLine": 15,
+        "endChar": 50
+      },
+      "revId": "0a59c9456eb8f22c63e089df2ce1f4e2deeced7e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "b1ae3b9f_04dcca43",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 5
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2018-07-24T11:46:10Z",
+      "side": 1,
+      "message": "Please also add tests for this REST endpoint.",
+      "range": {
+        "startLine": 15,
+        "startChar": 4,
+        "endLine": 15,
+        "endChar": 50
+      },
+      "revId": "0a59c9456eb8f22c63e089df2ce1f4e2deeced7e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "48bcf613_56c6e68d",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/wmf/fixshadowuser/FixShadownUserAccountAction.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2018-07-24T11:46:10Z",
+      "side": 1,
+      "message": "nit: better use camelCase, e.g. correctAccountId",
+      "range": {
+        "startLine": 40,
+        "startChar": 12,
+        "endLine": 40,
+        "endChar": 28
+      },
+      "revId": "0a59c9456eb8f22c63e089df2ce1f4e2deeced7e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "f9e5313b_22d41be2",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/wmf/fixshadowuser/FixShadownUserAccountAction.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2018-07-24T11:46:10Z",
+      "side": 1,
+      "message": "Say what this method actually does: Assigning the username external ID to another account.",
+      "range": {
+        "startLine": 54,
+        "startChar": 5,
+        "endLine": 54,
+        "endChar": 42
+      },
+      "revId": "0a59c9456eb8f22c63e089df2ce1f4e2deeced7e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "6d894358_33553f91",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/wmf/fixshadowuser/FixShadownUserAccountAction.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2018-07-24T11:46:10Z",
+      "side": 1,
+      "message": "no need to pass this in, as you can get it from extId: extId.key().id()",
+      "range": {
+        "startLine": 59,
+        "startChar": 44,
+        "endLine": 59,
+        "endChar": 60
+      },
+      "revId": "0a59c9456eb8f22c63e089df2ce1f4e2deeced7e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "f085ae7f_f49deb1e",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/wmf/fixshadowuser/FixShadownUserAccountAction.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2018-07-24T11:46:10Z",
+      "side": 1,
+      "message": "this method should have a better name",
+      "range": {
+        "startLine": 59,
+        "startChar": 17,
+        "endLine": 59,
+        "endChar": 25
+      },
+      "revId": "0a59c9456eb8f22c63e089df2ce1f4e2deeced7e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "8cb80aa9_f9db154a",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/wmf/fixshadowuser/FixShadownUserAccountAction.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2018-07-24T11:46:10Z",
+      "side": 1,
+      "message": "You should verify that an account with correctID exists before assigning an external ID for it, otherwise you can introduce an inconsistency (external ID for a non-existing account).",
+      "range": {
+        "startLine": 60,
+        "startChar": 4,
+        "endLine": 68,
+        "endChar": 6
+      },
+      "revId": "0a59c9456eb8f22c63e089df2ce1f4e2deeced7e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "86e061fe_132d6766",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/wmf/fixshadowuser/FixShadownUserAccountAction.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2018-07-24T11:46:10Z",
+      "side": 1,
+      "message": "As you already noticed the replace method is meant to be used to exchange one external ID of one account with another external ID. Hence it verifies that both external IDs are for the same account.\n\nMaybe just extend the ExternalIdsBatchUpdate class and add methods to do what you need.",
+      "revId": "0a59c9456eb8f22c63e089df2ce1f4e2deeced7e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "34243819_6684fd33",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/wmf/fixshadowuser/FixShadownUserAccountAction.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 71,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2018-07-24T11:46:10Z",
+      "side": 1,
+      "message": "You must also call the commit method on externalIdsBatchUpdate to persist the changes.",
+      "revId": "0a59c9456eb8f22c63e089df2ce1f4e2deeced7e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "42c65a33_48df2cfa",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/wmf/fixshadowuser/FixShadownUserAccountAction.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2018-07-24T11:46:10Z",
+      "side": 1,
+      "message": "nit: wrong indention",
+      "revId": "0a59c9456eb8f22c63e089df2ce1f4e2deeced7e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "094f1c01_61d506a6",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/wmf/fixshadowuser/FixShadownUserAccountAction.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2018-07-24T11:46:10Z",
+      "side": 1,
+      "message": "This may return null, in which case you should not look up an external ID for it.",
+      "range": {
+        "startLine": 84,
+        "startChar": 58,
+        "endLine": 84,
+        "endChar": 89
+      },
+      "revId": "0a59c9456eb8f22c63e089df2ce1f4e2deeced7e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "9f2dec77_2cb9fa85",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/wmf/fixshadowuser/FixShadownUserAccountAction.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2018-07-24T11:46:10Z",
+      "side": 1,
+      "message": "better be more precise: External ID for username X of account Y not found.\n\nalso better throw an exception (e.g. ResourceConflictException) for this.",
+      "range": {
+        "startLine": 87,
+        "startChar": 16,
+        "endLine": 87,
+        "endChar": 46
+      },
+      "revId": "0a59c9456eb8f22c63e089df2ce1f4e2deeced7e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "570fbaab_e90d360f",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/wmf/fixshadowuser/FixShadownUserAccountAction.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 91,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2018-07-24T11:46:10Z",
+      "side": 1,
+      "message": "Throw a BadRequestException here.",
+      "range": {
+        "startLine": 91,
+        "startChar": 10,
+        "endLine": 91,
+        "endChar": 45
+      },
+      "revId": "0a59c9456eb8f22c63e089df2ce1f4e2deeced7e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "cb5bfba1_e28bde7c",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/wmf/fixshadowuser/FixShadownUserAccountAction.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2018-07-24T11:46:10Z",
+      "side": 1,
+      "message": "Just let the exception be thrown. Then it\u0027s getting logged and the user gets a 500 Internal Server Error response.",
+      "revId": "0a59c9456eb8f22c63e089df2ce1f4e2deeced7e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    }
+  ]
+}
