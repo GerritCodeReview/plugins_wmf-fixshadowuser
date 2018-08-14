@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "ccebad6e_10c7d7a2",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 5
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1068922
+      },
+      "writtenOn": "2018-08-14T20:36:31Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ec84712c_582cdd03",
+      "range": {
+        "startLine": 10,
+        "startChar": 21,
+        "endLine": 11,
+        "endChar": 9
+      },
+      "revId": "0a59c9456eb8f22c63e089df2ce1f4e2deeced7e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "ca76213d_83513ebe",
         "filename": "/COMMIT_MSG",
         "patchSetId": 5
@@ -71,6 +95,30 @@
     },
     {
       "key": {
+        "uuid": "40fbdab7_2e64c4de",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 5
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1068922
+      },
+      "writtenOn": "2018-08-14T20:36:31Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ca76213d_83513ebe",
+      "range": {
+        "startLine": 15,
+        "startChar": 29,
+        "endLine": 15,
+        "endChar": 50
+      },
+      "revId": "0a59c9456eb8f22c63e089df2ce1f4e2deeced7e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "083ee979_2c59a0fc",
         "filename": "pom.xml",
         "patchSetId": 5
@@ -111,6 +159,30 @@
     },
     {
       "key": {
+        "uuid": "35b8d738_8438f5fe",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/wmf/fixshadowuser/FixShadownUserAccountAction.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1068922
+      },
+      "writtenOn": "2018-08-14T20:36:31Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "48bcf613_56c6e68d",
+      "range": {
+        "startLine": 40,
+        "startChar": 12,
+        "endLine": 40,
+        "endChar": 28
+      },
+      "revId": "0a59c9456eb8f22c63e089df2ce1f4e2deeced7e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "f9e5313b_22d41be2",
         "filename": "src/main/java/com/googlesource/gerrit/plugins/wmf/fixshadowuser/FixShadownUserAccountAction.java",
         "patchSetId": 5
@@ -131,6 +203,30 @@
       "revId": "0a59c9456eb8f22c63e089df2ce1f4e2deeced7e",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "92cf89a5_d6a8dc54",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/wmf/fixshadowuser/FixShadownUserAccountAction.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 1068922
+      },
+      "writtenOn": "2018-08-14T20:36:31Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "f9e5313b_22d41be2",
+      "range": {
+        "startLine": 54,
+        "startChar": 5,
+        "endLine": 54,
+        "endChar": 42
+      },
+      "revId": "0a59c9456eb8f22c63e089df2ce1f4e2deeced7e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     },
     {
       "key": {
@@ -180,6 +276,54 @@
     },
     {
       "key": {
+        "uuid": "cf229243_9ad29cf1",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/wmf/fixshadowuser/FixShadownUserAccountAction.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 1068922
+      },
+      "writtenOn": "2018-08-14T20:36:31Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "6d894358_33553f91",
+      "range": {
+        "startLine": 59,
+        "startChar": 44,
+        "endLine": 59,
+        "endChar": 60
+      },
+      "revId": "0a59c9456eb8f22c63e089df2ce1f4e2deeced7e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f3c6187f_f0ee8e46",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/wmf/fixshadowuser/FixShadownUserAccountAction.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 1068922
+      },
+      "writtenOn": "2018-08-14T20:36:31Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "f085ae7f_f49deb1e",
+      "range": {
+        "startLine": 59,
+        "startChar": 17,
+        "endLine": 59,
+        "endChar": 25
+      },
+      "revId": "0a59c9456eb8f22c63e089df2ce1f4e2deeced7e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "8cb80aa9_f9db154a",
         "filename": "src/main/java/com/googlesource/gerrit/plugins/wmf/fixshadowuser/FixShadownUserAccountAction.java",
         "patchSetId": 5
@@ -203,6 +347,30 @@
     },
     {
       "key": {
+        "uuid": "10bd2798_178d48d3",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/wmf/fixshadowuser/FixShadownUserAccountAction.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 1068922
+      },
+      "writtenOn": "2018-08-14T20:36:31Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "8cb80aa9_f9db154a",
+      "range": {
+        "startLine": 60,
+        "startChar": 4,
+        "endLine": 68,
+        "endChar": 6
+      },
+      "revId": "0a59c9456eb8f22c63e089df2ce1f4e2deeced7e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "86e061fe_132d6766",
         "filename": "src/main/java/com/googlesource/gerrit/plugins/wmf/fixshadowuser/FixShadownUserAccountAction.java",
         "patchSetId": 5
@@ -217,6 +385,24 @@
       "revId": "0a59c9456eb8f22c63e089df2ce1f4e2deeced7e",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "14ef9b76_27916559",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/wmf/fixshadowuser/FixShadownUserAccountAction.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 1068922
+      },
+      "writtenOn": "2018-08-14T20:36:31Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "86e061fe_132d6766",
+      "revId": "0a59c9456eb8f22c63e089df2ce1f4e2deeced7e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     },
     {
       "key": {
@@ -237,6 +423,24 @@
     },
     {
       "key": {
+        "uuid": "6c584579_b27d4a5e",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/wmf/fixshadowuser/FixShadownUserAccountAction.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 71,
+      "author": {
+        "id": 1068922
+      },
+      "writtenOn": "2018-08-14T20:36:31Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "34243819_6684fd33",
+      "revId": "0a59c9456eb8f22c63e089df2ce1f4e2deeced7e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "42c65a33_48df2cfa",
         "filename": "src/main/java/com/googlesource/gerrit/plugins/wmf/fixshadowuser/FixShadownUserAccountAction.java",
         "patchSetId": 5
@@ -251,6 +455,24 @@
       "revId": "0a59c9456eb8f22c63e089df2ce1f4e2deeced7e",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "59e189c2_3308a75b",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/wmf/fixshadowuser/FixShadownUserAccountAction.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 1068922
+      },
+      "writtenOn": "2018-08-14T20:36:31Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "42c65a33_48df2cfa",
+      "revId": "0a59c9456eb8f22c63e089df2ce1f4e2deeced7e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     },
     {
       "key": {
@@ -277,6 +499,30 @@
     },
     {
       "key": {
+        "uuid": "491c562b_23accfc0",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/wmf/fixshadowuser/FixShadownUserAccountAction.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 1068922
+      },
+      "writtenOn": "2018-08-14T20:36:31Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "094f1c01_61d506a6",
+      "range": {
+        "startLine": 84,
+        "startChar": 58,
+        "endLine": 84,
+        "endChar": 89
+      },
+      "revId": "0a59c9456eb8f22c63e089df2ce1f4e2deeced7e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9f2dec77_2cb9fa85",
         "filename": "src/main/java/com/googlesource/gerrit/plugins/wmf/fixshadowuser/FixShadownUserAccountAction.java",
         "patchSetId": 5
@@ -297,6 +543,30 @@
       "revId": "0a59c9456eb8f22c63e089df2ce1f4e2deeced7e",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "460850e4_bea5e5f2",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/wmf/fixshadowuser/FixShadownUserAccountAction.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 1068922
+      },
+      "writtenOn": "2018-08-14T20:36:31Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9f2dec77_2cb9fa85",
+      "range": {
+        "startLine": 87,
+        "startChar": 16,
+        "endLine": 87,
+        "endChar": 46
+      },
+      "revId": "0a59c9456eb8f22c63e089df2ce1f4e2deeced7e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     },
     {
       "key": {
@@ -323,6 +593,30 @@
     },
     {
       "key": {
+        "uuid": "3a3ec475_d55e6802",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/wmf/fixshadowuser/FixShadownUserAccountAction.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 91,
+      "author": {
+        "id": 1068922
+      },
+      "writtenOn": "2018-08-14T20:36:31Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "570fbaab_e90d360f",
+      "range": {
+        "startLine": 91,
+        "startChar": 10,
+        "endLine": 91,
+        "endChar": 45
+      },
+      "revId": "0a59c9456eb8f22c63e089df2ce1f4e2deeced7e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "cb5bfba1_e28bde7c",
         "filename": "src/main/java/com/googlesource/gerrit/plugins/wmf/fixshadowuser/FixShadownUserAccountAction.java",
         "patchSetId": 5
@@ -337,6 +631,24 @@
       "revId": "0a59c9456eb8f22c63e089df2ce1f4e2deeced7e",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "b40a8adc_ba9d50c3",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/wmf/fixshadowuser/FixShadownUserAccountAction.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 1068922
+      },
+      "writtenOn": "2018-08-14T20:36:31Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "cb5bfba1_e28bde7c",
+      "revId": "0a59c9456eb8f22c63e089df2ce1f4e2deeced7e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     }
   ]
 }
